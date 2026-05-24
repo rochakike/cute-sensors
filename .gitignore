@@ -1,0 +1,9 @@
+# object files
+*.o
+
+# binary
+cute-sensors
+a.out
+
+# vscode 
+.vscode/
