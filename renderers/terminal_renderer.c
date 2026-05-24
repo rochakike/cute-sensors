@@ -53,7 +53,7 @@ void print_header()
         current_theme.header,
         "cute-sensors");
 
-    printf("\033[38;5;244mv0.1\033[0m\n\n");
+    printf("\033[38;5;244mv1.0\033[0m\n\n");
 }
 
 void render_footer()
