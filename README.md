@@ -15,6 +15,12 @@ A lightweight terminal UI for Linux hardware sensors with a cute and themeable i
 
 ---
 
+## Screenshot
+
+![cute-sensors](assets/screenshots/cute-sensors.png)
+
+---
+
 ## Themes
 
 - **cute** → warm, soft colors
